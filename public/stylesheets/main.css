@@ -1,0 +1,24 @@
+.thumbnail img {
+    width : 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 20px;
+}
+
+#new_title{
+    text-align: center;
+}
+
+#new_form{
+    width: 30%;
+    margin: 25px auto;
+}
+
+#delete-form{
+    display: inline;
+}
