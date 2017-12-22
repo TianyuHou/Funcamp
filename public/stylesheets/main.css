@@ -3,11 +3,16 @@
 }
 
 .thumbnail {
-    padding: 0;
+    padding:0;
 }
 
 .thumbnail .caption-full {
-    padding: 20px;
+    padding: 9px;
+}
+
+#mainPage{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #new_title{
